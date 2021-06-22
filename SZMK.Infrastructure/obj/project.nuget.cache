@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jeznevCNV1vi5V33feg4+nliCf+zGa22iZbBZj9kEUWGafznWDFk5ZN7NxG3UDocf1fTpc86SmgVI/JT/DjbhA==",
+  "dgSpecHash": "OWhtKaZvvjHrelUNqCh9Ww7rMe0GIENKCz38W0LDL9B403m93PMXn6WTuwSLAD2q6pOJexNkDfF4LzE4aJS9Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thedr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "C:\\Users\\thedr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",

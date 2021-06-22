@@ -6385,11 +6385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
       "projectName": "SZMK.Infrastructure",
-      "projectPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Infrastructure\\SZMK.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\thedr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6410,8 +6410,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj": {
-              "projectPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj"
+            "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj": {
+              "projectPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj"
             }
           }
         }

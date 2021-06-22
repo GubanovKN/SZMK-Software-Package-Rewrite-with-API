@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\SZMK.Middleware.csproj": {}
+    "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\SZMK.Middleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj": {
+    "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj",
         "projectName": "SZMK.Domain",
-        "projectPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj"
+        "projectPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\SZMK.Middleware.csproj": {
+    "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\SZMK.Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\SZMK.Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\SZMK.Middleware.csproj",
         "projectName": "SZMK.Middleware",
-        "projectPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\SZMK.Middleware.csproj",
+        "projectPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\SZMK.Middleware.csproj",
         "packagesPath": "C:\\Users\\thedr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\obj\\",
+        "outputPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,8 +42,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj": {
-                "projectPath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Domain\\SZMK.Domain.csproj"
+              "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj": {
+                "projectPath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Domain\\SZMK.Domain.csproj"
               }
             }
           }

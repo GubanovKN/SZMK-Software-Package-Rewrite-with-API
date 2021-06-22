@@ -32,3 +32,15 @@ C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\D
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Domain.dll
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Domain.pdb
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.csproj.CopyComplete
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Infrastructure.deps.json
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Infrastructure.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Infrastructure.pdb
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Domain.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\bin\Debug\netstandard2.0\SZMK.Domain.pdb
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.AssemblyInfo.cs
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.csproj.CopyComplete
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Infrastructure\obj\Debug\netstandard2.0\SZMK.Infrastructure.pdb

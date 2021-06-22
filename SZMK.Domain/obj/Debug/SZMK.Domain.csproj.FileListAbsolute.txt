@@ -31,3 +31,14 @@ C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Domain\obj\Debug\SZM
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Domain\obj\Debug\SZMK.Domain.dll
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Domain\obj\Debug\SZMK.Domain.pdb
 C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Domain\obj\Debug\SZMK.Domain.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\SZMK.Domain.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\SZMK.Domain.pdb
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\obj\Debug\SZMK.Domain.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\obj\Debug\SZMK.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\obj\Debug\SZMK.Domain.csproj.CopyComplete
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\obj\Debug\SZMK.Domain.dll
+C:\Users\thedr\Desktop\SZMK-Software-Package-Rewrite-with-API\SZMK.Domain\obj\Debug\SZMK.Domain.pdb

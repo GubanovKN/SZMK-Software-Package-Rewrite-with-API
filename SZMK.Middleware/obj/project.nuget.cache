@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0dgull0CWhxLYvySlwiEg8raJfn3YMJSjvAUISaxiIP7bunHCsmW4J2IytdXV5ytbvBmksPB8Or1Ix7SKaWOw==",
+  "dgSpecHash": "f4CO/N2NRijkgKjjqBQaejZ+dGNeyMm4bYwiXzV3X64HF/4l+ex95w0C03g3hcotDC+8xw0SW74YMHF0ceDz3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thedr\\Desktop\\Works\\SZMK\\SZMK-Rewrite-Package\\SZMK.Middleware\\SZMK.Middleware.csproj",
+  "projectFilePath": "C:\\Users\\thedr\\Desktop\\SZMK-Software-Package-Rewrite-with-API\\SZMK.Middleware\\SZMK.Middleware.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thedr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\thedr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
