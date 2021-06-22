@@ -1,0 +1,34 @@
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.deps.json
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Domain.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Domain.pdb
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfoInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfo.cs
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csproj.CopyComplete
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.pdb
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.pdb
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csprojAssemblyReference.cache
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfoInputs.cache
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfo.cs
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.dll
+C:\Users\kirill.gubanov\YandexDisk\Компьютер DESKTOP-CI06CCS\Works\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.pdb
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfoInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.AssemblyInfo.cs
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.dll
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.pdb
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.deps.json
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.dll
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Middleware.pdb
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Domain.dll
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\bin\Debug\netstandard2.0\SZMK.Domain.pdb
+C:\Users\thedr\Desktop\Works\SZMK\SZMK-Rewrite-Package\SZMK.Middleware\obj\Debug\netstandard2.0\SZMK.Middleware.csproj.CopyComplete

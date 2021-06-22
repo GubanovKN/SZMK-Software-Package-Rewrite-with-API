@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SZMK.Api", "SZMK.Api\SZMK.Api.csproj", "{9BACB223-FD8E-44FB-9426-2A505700E368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SZMK.Desktop", "SZMK.Desktop\SZMK.Desktop.csproj", "{20E04435-4031-4A82-8A79-BCF01CA7FCC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SZMK.Domain", "SZMK.Domain\SZMK.Domain.csproj", "{54D20E34-92FB-4A99-992E-C5A2CB59AEDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SZMK.Infrastructure", "SZMK.Infrastructure\SZMK.Infrastructure.csproj", "{C04F251D-05FA-4F64-A0BE-225F36F03EDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SZMK.Middleware", "SZMK.Middleware\SZMK.Middleware.csproj", "{339F9056-31C7-40AB-BC46-AAF3FEBC89D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SZMK.ServerMail", "SZMK.ServerMail\SZMK.ServerMail.csproj", "{209FC574-68AB-4D22-95F1-CB28ECA9A70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BACB223-FD8E-44FB-9426-2A505700E368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BACB223-FD8E-44FB-9426-2A505700E368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BACB223-FD8E-44FB-9426-2A505700E368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BACB223-FD8E-44FB-9426-2A505700E368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E04435-4031-4A82-8A79-BCF01CA7FCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E04435-4031-4A82-8A79-BCF01CA7FCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E04435-4031-4A82-8A79-BCF01CA7FCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E04435-4031-4A82-8A79-BCF01CA7FCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D20E34-92FB-4A99-992E-C5A2CB59AEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D20E34-92FB-4A99-992E-C5A2CB59AEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D20E34-92FB-4A99-992E-C5A2CB59AEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D20E34-92FB-4A99-992E-C5A2CB59AEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04F251D-05FA-4F64-A0BE-225F36F03EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04F251D-05FA-4F64-A0BE-225F36F03EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04F251D-05FA-4F64-A0BE-225F36F03EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04F251D-05FA-4F64-A0BE-225F36F03EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339F9056-31C7-40AB-BC46-AAF3FEBC89D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339F9056-31C7-40AB-BC46-AAF3FEBC89D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339F9056-31C7-40AB-BC46-AAF3FEBC89D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339F9056-31C7-40AB-BC46-AAF3FEBC89D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209FC574-68AB-4D22-95F1-CB28ECA9A70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209FC574-68AB-4D22-95F1-CB28ECA9A70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209FC574-68AB-4D22-95F1-CB28ECA9A70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209FC574-68AB-4D22-95F1-CB28ECA9A70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3069B04-1EDB-4F9A-B88A-C8E19EAB14C3}
+	EndGlobalSection
+EndGlobal

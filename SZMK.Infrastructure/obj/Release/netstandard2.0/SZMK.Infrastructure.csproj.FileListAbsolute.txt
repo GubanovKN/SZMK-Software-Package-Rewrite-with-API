@@ -1,0 +1,16 @@
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\SZMK.Infrastructure.deps.json
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\SZMK.Infrastructure.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\SZMK.Infrastructure.pdb
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\SZMK.Domain.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\SZMK.Domain.pdb
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.csprojAssemblyReference.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.AssemblyInfo.cs
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.csproj.CopyComplete
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.dll
+C:\Users\thedr\Desktop\Works\SZMK-Rewrite-Package\SZMK.Infrastructure\obj\Release\netstandard2.0\SZMK.Infrastructure.pdb
